@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PojazdKonsola
 {
-    abstract class Pojazd
+    public abstract class Pojazd
     {
         protected string marka;
         protected UInt16 rokProdukcji;
