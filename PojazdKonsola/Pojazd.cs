@@ -9,7 +9,7 @@ namespace PojazdKonsola
     abstract class Pojazd
     {
         protected string marka;
-        protected ushort rokProdukcji;
+        protected UInt16 rokProdukcji;
 
         public Pojazd(string marka, ushort rokProdukcji)
         {
