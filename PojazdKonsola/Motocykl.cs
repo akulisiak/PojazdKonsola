@@ -21,7 +21,7 @@ namespace PojazdKonsola
             if (czyZabytkowy)
             {
 
-                return (koszt * 0.2);
+                return (koszt * 1.2);
             }
             else
             {
